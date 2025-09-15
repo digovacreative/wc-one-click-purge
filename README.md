@@ -1,0 +1,1 @@
+# wc-one-click-purge
